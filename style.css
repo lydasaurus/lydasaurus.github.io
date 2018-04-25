@@ -1,12 +1,11 @@
-h1 {font-size: 50px;
-    font-style: bold;
-    color: turquoise;
-    background-color: darkgray;}
-
 body {background-color: darkseagreen;}
 
-p       {font-size: 50px;
-        font-style: bold;
-        text-align: center;
-        color: turquoise;
-        background-color: darkgray;}
+h1 {font-size: 50px;
+    font-style: bold;
+    color: turquoise;}
+
+
+p {font-size: 30px;
+    font-style: bold;
+    text-align: center;
+    color: greenyellow;}
