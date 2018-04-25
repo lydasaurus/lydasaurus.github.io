@@ -3,7 +3,10 @@ h1 {font-size: 50px;
     color: turquoise;
     background-color: darkgray;}
 
-p {font-size: 50px;
+body {background-color: darkseagreen;}
+
+p       {font-size: 50px;
         font-style: bold;
+        text-align: center;
         color: turquoise;
         background-color: darkgray;}
